@@ -1,3 +1,3 @@
 # PRML_Assignments
 
-##PRML Course Assignments.
+PRML Course Assignments.
